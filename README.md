@@ -70,4 +70,43 @@ Chaque symbole ésotérique est associé à un ensemble de textes sacrés :
 
 ### Implémentation de l'Algorithme
 
-Cf code source
+Voir le code source dans le fichier `cles.py`.
+
+### Diagramme de l'Algorithme
+
+Un diagramme de flux (flowchart) illustrant les étapes clés de l'algorithme :
+
+```mermaid
+graph TD
+    A[Début] --> B[Sélection des Symboles]
+    B --> C[Choix des PDF basés sur les Symboles]
+    C --> D[Extraction de Textes aléatoires]
+    D --> E[Transformation Mystique]
+    E --> F[Nettoyage du Texte]
+    F --> G[Message Final]
+    G --> H[Affichage des Résultats]
+    H --> I[Fin]
+```
+
+### Exemples de Messages Mystiques
+
+Voici quelques exemples de messages générés pour donner une idée des résultats :
+
+- **Exemple 1** : "L'eau reflète la lumière divine, révélant les mystères cachés du cœur humain."
+- **Exemple 2** : "Le feu purificateur transforme l'âme, la menant vers une nouvelle renaissance spirituelle."
+- **Exemple 3** : "La terre solide offre une fondation stable pour la croissance et l'épanouissement spirituel."
+- **Exemple 4** : "L'air léger et libre inspire l'esprit à explorer des hauteurs inconnues et à découvrir de nouvelles vérités."
+
+### Schéma des Symboles et Textes Associés
+
+| Symbole | Élément | Textes Associés                          |
+|---------|---------|-----------------------------------------|
+| 🜁      | Eau     | `bible.pdf`, `coran.pdf`                 |
+| 🜂      | Feu     | `rigveda.pdf`, `bhagavadgita.pdf`        |
+| 🜃      | Terre   | `avesta.pdf`, `popolvuh.pdf`             |
+| 🜄      | Air     | `tao.pdf`, `bardo.pdf`, `dhammapada.pdf`, `srigourougranthsahib.pdf` |
+
+
+### Conclusion
+
+Ce projet de transmutation mystique est une exploration unique de la vérité subjective à travers l'utilisation de textes sacrés et de symboles ésotériques. Il illustre comment la perception de la vérité peut être influencée par des facteurs personnels et contextuels, tout en offrant une expérience mystique et réflexive.
