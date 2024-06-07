@@ -101,26 +101,6 @@ sequenceDiagram
     Algorithme->>User: Messages Mystiques
 ```
 
-```
-
-### Exemples de Messages Mystiques
-
-Voici quelques exemples de messages générés pour donner une idée des résultats :
-
-- **Exemple 1** : "L'eau reflète la lumière divine, révélant les mystères cachés du cœur humain."
-- **Exemple 2** : "Le feu purificateur transforme l'âme, la menant vers une nouvelle renaissance spirituelle."
-- **Exemple 3** : "La terre solide offre une fondation stable pour la croissance et l'épanouissement spirituel."
-- **Exemple 4** : "L'air léger et libre inspire l'esprit à explorer des hauteurs inconnues et à découvrir de nouvelles vérités."
-
-### Schéma des Symboles et Textes Associés
-
-| Symbole | Élément | Textes Associés                          |
-|---------|---------|-----------------------------------------|
-| 🜁      | Eau     | `bible.pdf`, `coran.pdf`                 |
-| 🜂      | Feu     | `rigveda.pdf`, `bhagavadgita.pdf`        |
-| 🜃      | Terre   | `avesta.pdf`, `popolvuh.pdf`             |
-| 🜄      | Air     | `tao.pdf`, `bardo.pdf`, `dhammapada.pdf`, `srigourougranthsahib.pdf` |
-
-## Conclusion
+### Conclusion
 
 Le projet **paradoCleS** démontre que la vérité est subjective et multiple. Nous encourageons la collaboration pour approfondir cette exploration et révéler de nouvelles perspectives sur la vérité.
